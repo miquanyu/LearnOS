@@ -33,6 +33,7 @@ mod interrupt;
 mod panic;
 mod sbi;
 mod memory;
+mod process;
 extern crate alloc;
 
 // 汇编编写的程序入口，具体见该文件
