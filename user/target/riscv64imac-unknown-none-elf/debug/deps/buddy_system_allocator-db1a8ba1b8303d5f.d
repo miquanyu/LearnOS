@@ -1,9 +1,0 @@
-/Users/apple/Desktop/LearnOS/user/target/riscv64imac-unknown-none-elf/debug/deps/buddy_system_allocator-db1a8ba1b8303d5f.rmeta: /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/lib.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/frame.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/linked_list.rs
-
-/Users/apple/Desktop/LearnOS/user/target/riscv64imac-unknown-none-elf/debug/deps/libbuddy_system_allocator-db1a8ba1b8303d5f.rlib: /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/lib.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/frame.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/linked_list.rs
-
-/Users/apple/Desktop/LearnOS/user/target/riscv64imac-unknown-none-elf/debug/deps/buddy_system_allocator-db1a8ba1b8303d5f.d: /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/lib.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/frame.rs /Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/linked_list.rs
-
-/Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/lib.rs:
-/Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/frame.rs:
-/Users/apple/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/buddy_system_allocator-0.6.0/src/linked_list.rs:
