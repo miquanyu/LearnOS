@@ -129,7 +129,7 @@ impl Mapping {
     /// 如果找不到对应的页表项，则会相应创建页表
     pub fn find_entry(&mut self, vpn: VirtualPageNumber) -> MemoryResult<&mut PageTableEntry> {
         // 从根页表开始向下查询
-        // 这里不用 self.page_tables[0] 避免后面产生 borrow-check 冲突（我太菜了）
+        // 这里不用 self.page_tables[0] 避免后面产生 borrow-check 冲突
         let root_table: &mut PageTable = PhysicalAddress::from(self.root_ppn).deref_kernel();
         let mut entry = &mut root_table.entries[vpn.levels()[0]];
         for vpn_slice in &vpn.levels()[1..] {
